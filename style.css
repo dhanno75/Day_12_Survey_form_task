@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+  font-family: "Nunito", sans-serif;
+  font-size: 16px;
+}
+
+i {
+  color: #f1d32a;
+  font-size: 20px;
+}
+
+sup {
+  color: red;
+}
+
+.light-gray {
+  background-color: rgb(235, 232, 232);
+}
+
+.spacing {
+  margin-right: 20px;
+}
